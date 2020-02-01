@@ -7,4 +7,4 @@ Recreate the image using css and html. flexbox is required for this project
 
 
 #######
-Type your name: 
+Type your name: Gift David
