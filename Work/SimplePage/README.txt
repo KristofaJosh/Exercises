@@ -4,3 +4,5 @@ Recreate the image using css and html. flexbox is required for this project
 2. use the image in the image folder to complete your task inside the new folder you created 
 
 
+#######
+Type your name: 
