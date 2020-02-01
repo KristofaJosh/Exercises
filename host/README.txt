@@ -1,3 +1,5 @@
 # Your site will be hosted in this branch
+#last exercise
 
-link: www.david-gift.netlify.com
+use this link to preview: https://david-gift.netlify.com/
+
