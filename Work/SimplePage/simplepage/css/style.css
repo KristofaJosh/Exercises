@@ -1,0 +1,10 @@
+p{
+display: flex;
+color: white;
+text-align: center;
+justify-content: center;
+padding:1.5rem 0;
+}
+.adjustimg{
+    padding: 2rem 0;
+}
