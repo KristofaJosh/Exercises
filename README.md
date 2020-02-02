@@ -1,4 +1,5 @@
 # Exercises
 All exercises
 
-All practices are will be saved in this folder
+All practices will be saved in this folder
+
