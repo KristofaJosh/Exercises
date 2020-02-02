@@ -87,3 +87,28 @@ padding:1.5rem 0;
   border-radius: 10px;
   
 }
+
+
+/*Card Class illustration*/
+/*You can delete this code and the html*/
+
+.card {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 1.2%;
+  width: 240px;
+}
+
+.card-text {
+  line-height: 1px;
+}
+
+.card-text h4{
+  color: black;
+  font-size: 20px;
+}
+
+.card-text h5{
+  color: aqua;
+}
+/*Card class ends*/
