@@ -1,5 +1,5 @@
 *{
-  outline: 1px solid red;
+  outline: 1px solid red
 }
 .testing{
 display: flex;
@@ -68,4 +68,3 @@ padding:1.5rem 0;
 .card-text{
   color: rgb(0, 0, 0);
 }
-
