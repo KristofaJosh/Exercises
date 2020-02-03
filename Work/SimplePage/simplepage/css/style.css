@@ -1,3 +1,6 @@
+*{
+  outline: 1px solid red;
+}
 .testing{
 display: flex;
 color: white;
@@ -47,43 +50,22 @@ padding:1.5rem 0;
 #largebox{
     background-color: blueviolet;
     height: 30rem;
-
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
 }
-#box1{
+.card{
     background-color: rgb(255, 255, 255);
     width: 300px;
     height: 350px;
-    float: left;
     margin-left: 30px;
     margin-top: 30px;
   border-radius: 10px;
- 
-}
-#box2{
-    background-color: rgb(255, 255, 255);
-    width: 300px;
-    height: 350px;
-    float: right;
-    margin-right: 25px;
-    margin-top: 30px;
-  border-radius: 10px;
-}
-#box3{
-    background-color: rgb(255, 255, 255);
-    width: 300px;
-    height: 350px;
-    float: right;
-    border-radius: 10px;
-    margin-right: 25px;
-    margin-top: 30px;
-}
-#box4{
-    background-color: rgb(255, 255, 255);
-    width: 300px;
-    height: 350px;
-    float: right;
-    margin-right: 30px;
-    margin-top: 30px;
-  border-radius: 10px;
+
   
 }
+.card-text{
+  color: rgb(0, 0, 0);
+}
+
