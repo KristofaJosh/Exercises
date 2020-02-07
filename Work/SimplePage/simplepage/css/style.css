@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 
 /* {outline: 1px solid red 
 }*/
 .firstbox{
   background-color: rgb(67, 139, 197);
   height: 3.5rem;
+=======
+* {
+  outline: 1px solid red;
+  font-family: 'Zhi Mang Xing', cursive;
+}
+
+.testing {
+>>>>>>> 924650e42c8c491c1a849d0d10b67c10d9083e03
   display: flex;
   justify-content: center;
 }
