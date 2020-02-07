@@ -4,10 +4,13 @@
 .firstbox{
   background-color: rgb(67, 139, 197);
   height: 3.5rem;
+  display: flex;
+  justify-content: center;
 }
 .testing {
   color: white;
   font-family: 'Roboto', sans-serif;
+  
 }
 .secondbox {
   background-color: rgb(255, 255, 255);
