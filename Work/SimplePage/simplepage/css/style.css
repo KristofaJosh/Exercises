@@ -1,6 +1,8 @@
 
-/* {outline: 1px solid red 
-}*/
+* {
+  outline: 1px solid red;
+  font-family: Roboto, sans-serif; 
+}
 .firstbox{
   background-color: rgb(67, 139, 197);
   height: 3.5rem;
@@ -18,7 +20,10 @@
   justify-content: center;
   padding: 2rem;
 }
-
+.svg1{
+  height: 10px;
+  margin: 10px 20px;
+}
 .navigation {
   background-color: rgb(255, 255, 255);
   overflow: hidden;
@@ -28,6 +33,7 @@
   justify-content: center;
   font-family: 'Roboto', sans-serif;
   font-weight: bolder;
+  text-transform: uppercase;
 }
 
 .navigation a {
@@ -59,7 +65,8 @@ svg {
 .card-container {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  margin-left: 30px;
 }
 
 .card {
@@ -67,6 +74,14 @@ svg {
   padding: 1rem;
   border: 1px solid rgb(236, 232, 232);
 
+}
+
+.card-text {
+  font-weight: bold;
+}
+
+.card-text h4 {
+  color: rgb(67, 139, 197);
 }
 
 .card-img img{
@@ -79,7 +94,7 @@ svg {
   height: 5rem;
   display: flex;
   justify-content: center;
-  text-align: center;
+  align-items: center;
 }
 .secondtolastbox{
   background-color: rgb(67, 139, 197);
@@ -89,6 +104,7 @@ svg {
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
 .scalar{
@@ -141,4 +157,12 @@ li{
   color: grey;
   font-size: 18px;
   font-family: "Roboto", Sanserif;
+}
+
+.icons {
+  display: flex;
+  color: grey;
+  font-size: 30px;
+  width: 25%;
+  justify-content: space-between;
 }
