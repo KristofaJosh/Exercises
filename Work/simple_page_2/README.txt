@@ -6,9 +6,7 @@ Recreate the image using css and html. flexbox is required for this project
 4. inside the parent folder of your current project, use the files folder to build your project
 
 
-Try to replicate this image, remember it musn't look alike
+Try to replicate this image, remember it musn't look exactly alike
 
-
-Your link: https://simple-page2.netlify.com
 
 
