@@ -15,7 +15,7 @@
     justify-content: center;
 }
 .paradiv{
-    height: 2px;
+        
     width: 90px;
     color: white;
     font-family: "Roboto", sans-serif;
@@ -34,4 +34,14 @@ video{
     width: 90%;
     height: 450px;
     color: white;
+}
+.thirdbox{
+    
+   
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: left;
+
 }
