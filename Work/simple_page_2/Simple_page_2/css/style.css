@@ -209,3 +209,19 @@ button{
   
     font-family: 'Raleway', sans-serif;
 }
+.greenfont{
+    color: rgb(27, 150, 27);
+    float: right;
+}
+.lightbluefont{
+    color: rgb(46, 164, 168);
+    float: right;
+}
+.yellowfont{
+    color: yellow;
+    float: right;
+}
+.brownfont{
+    color: rgb(122, 97, 13);
+    float: right;
+}
