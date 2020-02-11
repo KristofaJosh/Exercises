@@ -3,7 +3,7 @@
  }    */
 .main{
     background-color: rgb(51, 51, 51);
-    height: 138rem;
+    height: 160rem;
     width: 100%;
 }
 .secondmain{
@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6{
 .lastbox{
     width: 100%;
     height: 30rem;
-    background-color: blue;
+   
     display: flex;
     align-items: center;
     justify-content: space-between ;
