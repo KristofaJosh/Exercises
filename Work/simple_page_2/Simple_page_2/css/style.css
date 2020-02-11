@@ -1,6 +1,6 @@
-/* *{
+ /* *{
     outline: 1px solid red;
- }    */
+ }     */
 .main{
     background-color: rgb(51, 51, 51);
     height: 160rem;
@@ -41,6 +41,7 @@
     font-weight: lighter;
     margin-left: 10px;
 }  
+
 .secondbox{
     
     width: 100%;
@@ -49,21 +50,11 @@
     justify-content: center;
 }
 video{
-    width: 90%;
+    width: 80%;
     height: 450px;
     color: white;
 }
-.thirdbox{
-    
-   
-    color: white;
-    font-family: "Roboto", sans-serif;
-    font-size: 18px;
-    font-weight: lighter;
-    text-align: left;
-    margin-left: 150px;
 
-}
 .fourthbox{
     background-color: rgb(51, 51, 51);
     width: 100%;
@@ -111,10 +102,15 @@ hr{
     margin-right: 30px;
     width: 80%;
 }
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5{
     color: white; 
    text-align: center;
     font-family: 'Raleway', sans-serif;
+}
+h6{
+    font-size: 12px;
+    font-family:'Quicksand', sans-serif;
+    color: white;
 }
 .divbutton{
     width: 40px;
@@ -147,9 +143,10 @@ h1,h2,h3,h4,h5,h6{
    
     display: flex;
     align-items: center;
-    justify-content: space-between ;
+    justify-content: space-around ;
     flex-direction: row;
 }
+
 .imgdiv{
     width: 60%;
     height: 30rem;
@@ -160,11 +157,7 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 0;
 
 }
-.formbox{
-    width: 35%;
-    height: 20rem;
-    background-color: palevioletred;
-}
+
 .typesomething{
     width: 70%;
     height: 12rem;
@@ -187,15 +180,17 @@ h1,h2,h3,h4,h5,h6{
     height: 2rem;
     margin: 2px;
     border-color: white;
+    
 }
 .input2{
     height: 2rem;
     margin: 7px;
     border-color: white;
+    
 }
 .inputmessage{
     width: 22.5rem;
-    height: 8rem;
+    height: 15rem;
     border-color: white;
 }
 button{
@@ -237,4 +232,7 @@ button{
 .brownfont{
     color: rgb(122, 97, 13);
     float: right;
+}
+.loc{
+    font-family: 'Raleway', sans-serif;
 }
