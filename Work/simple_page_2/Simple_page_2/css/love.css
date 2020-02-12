@@ -1,0 +1,65 @@
+*  {
+    outline: 1px solid blue;
+}
+
+hr {
+    width: 70%;
+    height: 5px;
+    color: cyan;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+#video video {
+    width: 100%;
+}
+
+.container2 {
+    background-color: red;
+    width: 80%;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    margin: 1rem 0;
+}
+
+.mssg {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.mssg p {
+    background-color: blueviolet;
+    width: 30%;
+}
+
+.sub-map {
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-between;
+}
+
+.map {
+    width: 45%;
+}
+
+.subscription {
+    width: 45%
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+}
