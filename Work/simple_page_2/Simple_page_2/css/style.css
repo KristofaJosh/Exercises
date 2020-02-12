@@ -50,7 +50,7 @@
     justify-content: center;
 }
 video{
-    width: 80%;
+    width: 90%;
     height: 450px;
     color: white;
 }
@@ -88,7 +88,7 @@ hr{
     height: 0.3px;
 }
 .mini1{
-    
+    display: inline-block;
     padding: 20px;
     border-radius: 10px;
     background-color: rgb(31, 31, 31);
@@ -96,6 +96,7 @@ hr{
     width: 80%;
 }
 .mini2{
+    display: inline-block;
     padding: 20px;
     border-radius: 10px;
     background-color: rgb(64, 64, 64);
