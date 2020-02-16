@@ -1,5 +1,5 @@
-*  {
-    outline: 1px solid blue;
+body {
+    font-family: Roboto, 'consolas';
 }
 
 hr {
@@ -32,6 +32,7 @@ hr {
 
 .card {
     margin: 1rem 0;
+    background-color: blue;
 }
 
 .mssg {
@@ -62,4 +63,30 @@ hr {
 .copyright {
     display: flex;
     justify-content: center;
+}
+
+.card {
+    width: 100%;
+}
+
+.card-content {
+    display: flex;
+    max-width: 50rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.circ img {
+    width: 50%;
+    border-radius: 100%;
+}
+
+.line {
+    height: 2px;
+}
+
+.card-block {
+    background-color: bisque;
+    height: 50px;
+    width: 300px;
 }
