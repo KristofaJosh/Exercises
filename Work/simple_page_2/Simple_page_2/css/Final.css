@@ -2,6 +2,15 @@
     outline: 1px solid red;
 }   */
 
+body::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+body {
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+}
+
 .logo_text_videodiv {
     background-color: rgb(51, 51, 51);
     width: 100%;
