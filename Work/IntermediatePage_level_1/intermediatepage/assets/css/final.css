@@ -1,0 +1,38 @@
+*{
+    outline: 1px solid red;
+}
+.container-fluid{
+    width: 100vw;
+    background-color: yellow;
+
+}
+nav{
+    width: 100%;
+}
+
+#videobox{
+    width: 100%;
+}
+video{
+    width: 100%;
+    display: block;
+}
+.row{
+   
+   width:100%;
+  background-color: honeydew;
+}
+
+img{
+    width:100vw;  
+  overflow: hidden;
+}
+.col{
+    width:100vw;
+    background-color: hotpink;
+}
+
+footer{
+    width: 100%;
+    background-color: grey;
+}
