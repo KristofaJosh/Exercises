@@ -1,0 +1,188 @@
+*{
+    outline: 1px solid red;
+}
+.font_logo{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    background-color:rgb(51, 51, 51);
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    color: white; 
+}
+
+.logo{
+        width: 30px;
+        height: 30px;
+        transform: rotate(45deg); 
+        background-color:rgb(51, 51, 51);
+        margin-top: 15px;
+        border-color: white;
+        border-style: solid;
+        border-width:8px;
+        margin: 30px;
+}
+
+.videobox{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    background-color: rgb(51, 51, 51);
+}
+video{
+   width: 90%;
+   display: flex;
+   justify-content: center;
+   align-self: center;
+}
+ 
+.main{
+  
+    width: 100%;
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    align-items: center;
+   flex-direction: column;
+   
+    
+ 
+}
+
+.Wttparagraph{
+    color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 30px;
+}
+
+
+
+.submain{
+    width: 80%;
+    background-color: royalblue;
+    display: flex;
+    align-items: center;
+
+   flex-direction: column;
+  
+}
+
+.subimg-div {
+    display: flex;
+    justify-content: center;
+}
+
+.mini1{
+    /* margin: 30px; */
+    /* padding: 10px; */
+    border-radius: 10px;
+    background-color: rgb(31, 31, 31);
+    
+    /* width: 80%; */
+    display: flex;
+  align-items: center;
+    flex-direction: column;
+    
+}
+.subimg1{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+
+}
+hr{
+    width: 10%;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+    height: 0.3px;
+    display: flex;
+    align-self: center;
+}
+.round{
+    width: 30%; 
+    border-radius: 50%;
+   }
+   
+.lastline{
+   
+    width:60%;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+    height: 0.3px;
+    display: flex;
+    align-self: center;
+
+}
+
+.writings{
+    
+   width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding: 30px;  
+}
+.space{
+    margin: 10px;
+}
+.lastbox{
+    width: 100%;
+    display: flex;
+   align-items: center;
+    justify-content: space-evenly;
+}
+.map{
+   width: 60%; 
+}
+/* .formdiv{
+    width: 50%;
+    height: 20rem;
+} */
+.loc{
+    font-family: 'Raleway', sans-serif;
+}
+.input1{
+    height: 2rem;
+    margin: 2px;
+    border-color: white;
+    
+}
+.input2{
+    height: 2rem;
+    margin: 7px;
+    border-color: white;
+}
+
+.inputmessage{
+    width: 22.5rem;
+    height: 15rem;
+    border-color: white;
+}
+button{
+    padding: 8px;
+    margin: 10px;
+    width: 8rem;
+    height: 2.5rem;
+    border-color: 1px solid white;
+}
+.lol{
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.final{
+    text-align: center;
+    color:grey;
+  
+    font-family: 'Raleway', sans-serif;
+}
+
+
